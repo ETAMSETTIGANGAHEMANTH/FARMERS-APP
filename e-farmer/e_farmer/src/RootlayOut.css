@@ -1,0 +1,19 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rubik+Puddles&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@300&family=Mukta:wght@200&family=Open+Sans:ital,wght@1,300&family=Oswald&family=Saira+Extra+Condensed:wght@200&display=swap');
+
+
+.outlet-container{
+    min-height:90vh;
+    
+}
+.navbar .active {
+    color:blue;
+   /* font-family: 'Rubik Puddles',cursive;*/
+   font-family: 'Kalnia', serif;
+    text-shadow: 1px 2px 2px white;
+}
+.b
+{
+    background-color: rgb(149, 203, 95);
+    
+}

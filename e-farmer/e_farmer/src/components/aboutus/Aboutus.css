@@ -1,0 +1,22 @@
+
+.free-delivery-icon,.service-icon,.payment-icon{
+    font-size: 3rem;
+    margin-right: 0.6rem ;
+}
+.customer-review-star{
+    font-size: 1.5rem;
+    margin-right: 0.4rem ;
+    margin-left: 0.4rem ;
+
+}
+
+.aboutus-background{
+   /*background-image: radial-gradient( #78D6C6,#419197,#12486B,#071952);*/
+    background-size: cover;
+    width:100%;
+}
+.aboutus-image{
+    box-shadow: 15px 15px 15px black;
+}
+
+

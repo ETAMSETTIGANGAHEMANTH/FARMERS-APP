@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Kaushan+Script&family=Roboto&family=Rubik+Puddles&display=swap');
+
+.addfooditems-background{
+    background-image: url('https://img.freepik.com/premium-photo/bay-leaf-black-pepper-black-background-condiments-flat-view-space-text_350891-622.jpg');
+    background-size: cover;
+    width:100%;
+}
+
+.addfooditems-heading{
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 1px 2px 2px white;
+}
+
+

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Kaushan+Script&family=Roboto&family=Rubik+Puddles&display=swap');
+
+.register-background{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSta5MyU9fMXfBZ0sF_Nw4D5Y17wweKNwmL_Fk64rOBfa1ZBO4aroB54db7WN7g7D7rFSc&usqp=CAU');
+    background-size: cover;
+    width:100%;
+}
+.label-text{
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 1px 2px 2px black;
+}
+

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Kaushan+Script&family=Roboto&family=Rubik+Puddles&display=swap');
+
+.login-background{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzpqBHifkXUv-cIHgqJT5HQxZcrvfnfCCqQ&usqp=CAU');
+    background-size: cover;
+    width:100%;
+    height:100vh;
+}
+
+.form-style{
+    padding-top: 140px;
+}
+
+.form-background{
+    background-color: #2E97A7;
+    box-shadow: 15px 15px 15px black;
+
+}
+
+.login-heading{
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 1px 2px 2px black;
+}
